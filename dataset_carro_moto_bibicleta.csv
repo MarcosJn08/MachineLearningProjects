@@ -1,0 +1,10 @@
+Motor,quatro_rodas,tem_guidon,tipo_veiculo
+0,0,1,bicicleta
+0,0,1,bicicleta
+1,1,0,Carro
+1,0,1,Moto
+1,1,0,Carro
+1,0,1,Moto
+0,1,0,nao_existe
+0,1,1,nao_existe
+1,1,1,nao_existe
